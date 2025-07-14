@@ -1,5 +1,5 @@
 - 👋 Hi. my name is Jonathan.
-- 📌 I´m based in Bavaria, ermany.
+- 📌 I´m based in Bavaria, Germany.
 - 👀 I’m interested in writing the best possible code.
 - ❤️ I love clean, documented and tested code.
 - 🔭 I’m currently working on some private projects.
